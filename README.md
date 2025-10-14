@@ -1,7 +1,6 @@
 # 🚖 GoodCabs Business Performance Analysis
 
 This project is part of the **Codebasics Resume Challenge #13**, focused on analyzing the business performance of *GoodCabs* — a cab service company operating across Tier-2 Indian cities.  
-
 The goal was to uncover insights related to **passenger behavior, trip trends, and city-wise performance**, using **SQL** for analysis and **Power BI** for dashboarding.
 
 ---
@@ -52,10 +51,10 @@ Here’s the Snowflake data model I built in Power BI — it connects dim_city, 
 
 ## 🔗 Project Links
 
-- 📄 **Ad-hoc Report:** [https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Ad-Hoc%20SQL%20Report.pdf]  
-- 📑 **Executive Summary:** [https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Executive%20Summary.pdf]  
-- 🎥 **Presentation Video:** [Insert LinkedIn or Drive Link Here]  
-- 🗂️ **Data Model Screenshot:** [Insert Link or Image Reference]
+- 📄 [Ad-hoc Report](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Ad-Hoc%20SQL%20Report.pdf) 
+- 📑 [Executive Summary](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Executive%20Summary.pdf) 
+- 🎥 [Presentation Video](link)  
+- 🖼️ [Data Model Screenshot](link)
 
 ---
 
