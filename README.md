@@ -24,17 +24,25 @@ The project was divided into two parts:
 
 Here’s the Snowflake data model I built in Power BI — it connects dim_city, dim_date, fact_trips, fact_passenger_summary, and targets tables, along with some additional tables I created where needed.
 
-📸 *[Insert Screenshot or Drive Link to Data Model here]*
+![Snowflake Data Model](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Data%20Model.png)
 
 ---
 
-## 💡 Key Insights & Recommendations
+## Key Insights
 
-- **Surat** recorded the **highest repeat passenger rate**, while **Mysore** had the lowest — indicating potential loyalty-building opportunities in low-performing cities.  
-- **May** showed the **highest repeat rate**, whereas **January** had the lowest — suggesting that promotional campaigns during early months could boost retention.  
-- Some cities underperformed against their **target ratings and trip goals**, highlighting the need for **driver training programs** and **city-level marketing**.  
-- **Consistent passenger growth** across top cities signals that GoodCabs’ expansion strategy in Tier-2 markets is working effectively.  
-- Recommendation: Implement **monthly city performance reviews** using Power BI dashboards to monitor trends and take proactive actions.
+- Jaipur and Lucknow recorded the highest trip volumes, establishing them as core demand hubs that require continued focus to maintain market share.  
+- Surat showed strong passenger retention but low ratings, signaling a loyal base at risk if service quality doesn’t improve.  
+- Mysore and Coimbatore reflected lower demand yet higher fare per km, highlighting potential for niche, premium service offerings.  
+- Passenger behavior patterns revealed that tourist cities (Jaipur, Mysore, Kochi) see quicker repeat cycles, while business cities (Lucknow, Coimbatore, Surat) have steadier, long-term usage.  
+- While trip volumes remained broadly stable, new passenger growth lagged behind targets and ratings trended downward — pointing to customer experience gaps.
+
+## Recommendations
+- Strengthen presence in weaker cities like Surat, Vadodara, and Coimbatore through local partnerships with hotels, malls, and events to attract new riders.  
+- Improve ratings in Surat and Lucknow by investing in driver training, better support systems, and in-app feedback loops.  
+- Introduce commuter passes for business hubs (Lucknow, Coimbatore, Surat) and seasonal tourist packages for cities like Jaipur, Mysore, and Kochi.  
+- Optimize supply by adding more cabs during high-demand months (Feb–May) and scaling down during low-demand months like June.  
+- Pilot EV adoption in high-demand markets (Jaipur, Lucknow) to reduce operational costs and enhance brand sustainability.
+
 
 ---
 
