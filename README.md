@@ -61,8 +61,8 @@ Here’s the Snowflake data model I built in Power BI — it connects dim_city, 
 
 - 📄 [Ad-hoc Report](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Ad-Hoc%20SQL%20Report.pdf) 
 - 📑 [Executive Summary](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Executive%20Summary.pdf) 
-- 🎥 [Presentation Video](link)  
-- 🖼️ [Data Model Screenshot](link)
+- 🎥 [Presentation Video](https://www.linkedin.com/posts/komalsharma-insights_powerbi-dataanalytics-dashboard-activity-7384542125742354432-9m74?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC6RzkBFwFC9OsTNQE67xvf1nxZbpf_05Y)  
+- 🖼️ [Data Model Screenshot](https://github.com/KomalSharma0/Goodcabs-Business-Performance-Analysis/blob/main/Data%20Model.png)
 
 ---
 
